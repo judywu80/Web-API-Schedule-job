@@ -22,13 +22,14 @@
 ※　另外根據不同資料狀態（新增／修改）和資料驗證（重複／必填）做處理
 
 
-![Bra5](https://github.com/user-attachments/assets/8ebce96d-af0c-4c5a-b7ef-1226cc61bd68)
+![Bra2](https://github.com/user-attachments/assets/4063b577-ca3a-43b6-bcbb-f19c77670d16)
+
 
 
 3
 
 
-中台資料庫透過 自動排程(Schedule Job)將資料組成 XML 並且呼叫 Web service
+中台資料庫透過 自動排程(Schedule Job)將資料組成 XML 並且呼叫 Web service 寫入 ERP 對應的主檔或交易單據
 
 
 <img width="802" alt="Bra3" src="https://github.com/user-attachments/assets/5c6a2626-c43d-4fbe-b3bb-944d601f7aee">
@@ -36,8 +37,11 @@
 
 4
 
-寫入 ERP 對應的主檔或交易單據
+
+（以其他範例示意）
 
 
-<img width="951" alt="Bra4" src="https://github.com/user-attachments/assets/804f2d6f-4190-44b3-a970-96eb4ba28ad1">
+
+<img width="941" alt="Bra3-2" src="https://github.com/user-attachments/assets/51ae3351-184b-4078-bef0-2f2196bd126c">
+
 
