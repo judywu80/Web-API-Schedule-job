@@ -19,13 +19,16 @@
 中台資料庫將資料透過 Web service 寫入 ERP，ERP 回饋成功或失敗資訊回中台資料庫
 
 
+※　另外根據不同資料狀態（新增／修改）和資料驗證（重複／必填）做處理
+
+
 ![Bra5](https://github.com/user-attachments/assets/8ebce96d-af0c-4c5a-b7ef-1226cc61bd68)
 
 
 3
 
 
-中台資料庫透過排程(Schedule Job)將資料組成 XML 並且呼叫 Web service
+中台資料庫透過 自動排程(Schedule Job)將資料組成 XML 並且呼叫 Web service
 
 
 <img width="802" alt="Bra3" src="https://github.com/user-attachments/assets/5c6a2626-c43d-4fbe-b3bb-944d601f7aee">
