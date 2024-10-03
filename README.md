@@ -7,7 +7,7 @@
 1
 
 
-前台系統會提供 Json 格式將資料透過 Rest API 寫入中台資料庫
+前台系統提供 Json 格式將資料透過 Rest API 寫入中台資料庫
 
 
 <img width="767" alt="Bra2" src="https://github.com/user-attachments/assets/d8ceac4e-8a25-4ef5-a77c-962aa1fa1c54">
